@@ -1,5 +1,5 @@
 {
-    "name": "sethphat/eloquent-docs",
+    "name": "elfif/eloquent-docs",
     "version": "2.0.1",
     "description": "Generate PHPDoc scope for your Eloquent models (columns, accessors and more)",
     "type": "library",
